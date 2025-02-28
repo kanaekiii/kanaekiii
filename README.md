@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abinaya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+- 🔭 I’m currently working on [Rhythmix](https://github.com/kanaekiii/rhythmix)
+
 - 🌱 I’m currently learning **Cloud Infrastructure, Soft Computing**
 
 - 💬 Ask me about **Flutter, Raspberry Pi.**
