@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raghuramanabinaya@gmail.com**
 
-- 📄 Know about my experiences [resume/abinaya-raghuraman](https://drive.google.com/file/d/1Q4YtrWp463R5JRNxbL7dqhazFId2Duez/view?usp=drivesdk)
+- 📄 Know about my experiences [resume/abinaya-raghuraman](https://drive.google.com/file/d/1RVyrIyNvTOi8EDnPxQ7t9siNCss85RsF/view?usp=drivesdk)
 
 - ⚡ Fun fact **My best ideas come at 3 AM... and are forgotten by 8 AM.**
 
