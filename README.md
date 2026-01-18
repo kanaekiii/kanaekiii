@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abinaya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Rhythmix](https://github.com/kanaekiii/rhythmix)
+- 🔭 I’m currently working at [Intel Foundry](https://www.intel.com/content/www/us/en/foundry/overview.html)
 
-- 🌱 I’m currently learning **Cloud Infrastructure, Soft Computing**
+- 🌱 I’m currently learning **LLMs and Agentic AI**
 
 - 💬 Ask me about **Flutter, Raspberry Pi.**
 
 - 📫 How to reach me **raghuramanabinaya@gmail.com**
 
-- 📄 Know about my experiences [resume/abinaya-raghuraman](https://drive.google.com/file/d/1tqc4x1J4a6mfKxuajtj3HVsqQym9vbH1/view)
+- 📄 Know about my experiences [resume/abinaya-raghuraman](https://drive.google.com/file/d/1Q4YtrWp463R5JRNxbL7dqhazFId2Duez/view?usp=drivesdk)
 
 - ⚡ Fun fact **My best ideas come at 3 AM... and are forgotten by 8 AM.**
 
