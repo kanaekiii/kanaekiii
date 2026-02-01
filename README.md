@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abinaya</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abinaya Raghuraman</h1>
+<h3 align="center">Software Engineering | AI & Applied ML | Manufacturing & IoT Systems</h3>
 
-- 🔭 I’m currently working at [Intel Foundry](https://www.intel.com/content/www/us/en/foundry/overview.html)
-
-- 🌱 I’m currently learning **LLMs and Agentic AI**
-
-- 💬 Ask me about **Flutter, Raspberry Pi.**
+- 🔭 Software Engineering Intern at [Intel Foundry](https://www.intel.com/content/www/us/en/foundry/overview.html)
+ 
+- 🌱 Currently exploring **Agentic AI systems** and intelligent troubleshooting workflows
 
 - 📫 How to reach me **raghuramanabinaya@gmail.com**
 
-- 📄 Know about my experiences [resume/abinaya-raghuraman](https://drive.google.com/file/d/1RVyrIyNvTOi8EDnPxQ7t9siNCss85RsF/view?usp=drivesdk)
+- 📄 Know about my experiences [resume/abinaya-raghuraman](https://drive.google.com/file/d/1V1qMOgojlBmzxbwVr6e3y5kiQefM_04i/view?usp=drive_link)
 
-- ⚡ Fun fact **My best ideas come at 3 AM... and are forgotten by 8 AM.**
+- ⚡ Fun fact **My best ideas still come at 3 AM... but now I write them down.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
